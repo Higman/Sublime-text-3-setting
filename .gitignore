@@ -1,0 +1,5 @@
+*.cache
+*_tmp
+encoding_chache.json
+Package Control.last-run
+Evernote.sublime-setting
