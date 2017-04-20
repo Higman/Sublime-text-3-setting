@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"GlassIt",
+		"IMESupport",
+		"Japanize",
+		"Monokai Extended",
+		"Package Control",
+		"ProjectManager",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"Sublimerge Pro",
+		"Terminal"
+	],
+	"repositories":
+	[
+	]
+}

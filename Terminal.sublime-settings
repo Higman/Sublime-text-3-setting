@@ -1,0 +1,4 @@
+{ //お使いのターミナル（cmder.exe）のパスを指定してください
+  "terminal": "C:\\Users\\Owner\\Documents\\cmder\\Cmder.exe",
+  "parameters": ["/START", "%CWD%"]
+}
