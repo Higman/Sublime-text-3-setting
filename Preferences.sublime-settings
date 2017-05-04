@@ -9,11 +9,12 @@
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
+	"dpi_scale": 1.0,
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"fallback_encoding": "UTF-8",
 	"font_face": "Rounded M+ 1mn medium",
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
